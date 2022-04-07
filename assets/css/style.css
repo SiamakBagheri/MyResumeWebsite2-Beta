@@ -1,0 +1,10 @@
+/* fonts */
+
+body {
+    font-family: Vazirmatn;
+}
+
+div.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
